@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(255, 221, 158);
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+h3,
+p,
+ul,
+ol,
+img {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: auto;
+}
+
+h3 {
+    font-size: 30px;
+}
